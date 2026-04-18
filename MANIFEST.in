@@ -1,0 +1,5 @@
+include requirements.txt
+recursive-include erpnext_control_tower/public *
+recursive-include erpnext_control_tower/page *
+recursive-include erpnext_control_tower/config *
+recursive-include erpnext_control_tower *.json *.py *.js *.txt
